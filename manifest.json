@@ -1,0 +1,9 @@
+{
+  "name": "KeepFurniture",
+  "description": "Attempts to stop the game from removing unlocked furniture and ship upgrades when you're fired.",
+  "version_number": "1.0.0",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100"
+  ],
+  "website_url": "https://github.com/PixLSteam/LethalCompanyKeepFurniture"
+}
